@@ -53,4 +53,4 @@ Add `?presenter` before the `#` to get presenter shortcuts that jump to any of t
 
 ## Development Notes
 
-AI-assisted development tools, including OpenAI Codex and Claude Code, were used to support implementation, debugging, and testing.
+AI-assisted development tools, such as Claude Code, were used to support implementation, debugging, and testing.
