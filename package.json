@@ -1,0 +1,17 @@
+{
+  "name": "parallel-reality-audio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "voices": "node scripts/generate.mjs --list-voices",
+    "estimate": "node scripts/generate.mjs --dry-run",
+    "generate": "node scripts/generate.mjs"
+  },
+  "devDependencies": {
+    "vite": "^6.4.4"
+  }
+}
