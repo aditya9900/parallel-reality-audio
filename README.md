@@ -50,3 +50,7 @@ Add `?presenter` before the `#` to get presenter shortcuts that jump to any of t
 ## Deploy
 
 `npm run build`, then drag the `dist` folder onto https://app.netlify.com/drop. Re-run both after any change.
+
+## Development Notes
+
+AI-assisted development tools, including OpenAI Codex and Claude Code, were used to support implementation, debugging, and testing.
